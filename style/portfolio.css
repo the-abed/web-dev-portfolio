@@ -5,6 +5,9 @@
     font-variation-settings:
         "wdth" 100;
 }
+body{
+    margin: 0 200px;
+}
 
 .nav-title {
     font-weight: 800;
