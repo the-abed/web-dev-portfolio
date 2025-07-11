@@ -137,4 +137,7 @@ nav li a {
     text-align: center;
     font-size: 35px;
 }
+button:hover{
+    background-color: rgb(127, 159, 255);
+}
 
